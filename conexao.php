@@ -1,6 +1,6 @@
 <?php
 
-$link = mysqli_connect("localhost", "root", "", "sistema_escolar_semiautomatico");
+$link = mysqli_connect("localhost", "root", "", "escola_online");
 
 
 include_once('tesoraria/gerador_cobranca.php');
