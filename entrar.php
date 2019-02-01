@@ -5,7 +5,7 @@
 
 
 
-<title>INTITUDO EDUCACIONAL VENCER </title>
+<title>escola online </title>
 <link href="css/index.css" rel="stylesheet" type="text/css" />
 <link href="img/logo2.png" rel="shortcut icon" />
 <?php require("conexao.php"); ?>
