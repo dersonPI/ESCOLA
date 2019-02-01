@@ -12,7 +12,7 @@ class db {
 	private $senha = '';
 
 	//banco de dados
-	private $database = 'sistema_escolar_semiautomatico';
+	private $database = 'ecola_online';
 
 	public function conecta_mysql(){
 
