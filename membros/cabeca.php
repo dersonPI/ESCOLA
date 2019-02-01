@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ADMINISTRAÇÃO INSTITUTO EDUCACIONAL VENCER </title>
+	<title>ADMINISTRAÇÃO </title>
 	<meta http-equiv="Content-Language" content="pt-br" charset="utf-8">
 
 
