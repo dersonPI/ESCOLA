@@ -1,0 +1,6 @@
+  Link do whatsapp
+#
+https://api.whatsapp.com/send?l=pt&phone=5599999999
+#Código de HTML
+#
+<a href="https://api.whatsapp.com/send?l=pt&amp;phone=5541999999"><img src="https://i.imgur.com/XMsxHpu.png" style="height:80px; position:fixed; bottom: 25px; right: 25px; z-index:100;" data-selector="img"></a>
